@@ -1,0 +1,108 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    left: 50px;
+    overflow: hidden;
+    background-color: #f3f3f3;
+    position: sticky;
+    top: 0;
+  }
+  
+  .topbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    left: 50px;
+    overflow: hidden;
+    background-color: #ffff00;
+    position: sticky;
+    top: 0;
+  }
+  
+  div.relative {
+    position: relative;
+    left: 150px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    left: 100px;
+    text-decoration: none;
+  }
+  
+  .borders {
+   border-right: 1px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a:hover {
+    background-color: #ffff00;
+  }
+  
+  img:hover {
+  opacity: 0.3;
+  }
+  
+  .wrapper{
+      width:300px;
+      height:50px;
+      border:2px solid yellow;
+  }
+  
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 12px;
+    font-size: 12px;
+    border: none;
+  }
+  
+  .topnav button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 12px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  div.relright {
+  position: relative;
+  float: right;
+  margin-right: 325px;
+  }
+  
+  .pos {
+  position: relative;
+  margin-left: 150px;
+  margin-right: 450px;
+  }
+  
+  .poss {
+  margin-left: 550px;
+  }
+  
+  .posss {
+  margin-top: 15px;
+  }
+  
+  .possss {
+  margin-left: 20px;
+  }
+  
+  .posssss {
+  margin-left: 100px;
+  }
